@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CRUD PHP MySQL</title>
+    <title>CRUD PHP MySQL Y SONNAR</title>
     <style>
    body {
             font-family: Arial, sans-serif;
