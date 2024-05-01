@@ -75,7 +75,7 @@
 
 </head>
 <body>
-    <h2>CRUD PHP MySQL</h2>
+    <h2>HOLA MUNDOsssss</h2>
 
     <!-- Formulario para agregar un nuevo usuario -->
     <h3>Agregar Usuario</h3>
